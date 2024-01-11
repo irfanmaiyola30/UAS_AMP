@@ -1,0 +1,158 @@
+[
+    {
+      "id": 1,
+      "name": "Doa Sebelum Makan",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
+      "latin": "Allahumma barik lana fi ma razaqtana waqina 'adhaban-nar",
+      "terjemahan": "Ya Allah, berkahilah rezeki yang Engkau berikan kepada kami dan peliharalah kami dari siksa api neraka.",
+      "audio":"audio/test.wav"
+     },
+    {
+      "id": 2,
+      "name": "Doa Sesudah Makan",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+      "latin": "Alhamdulillahil ladhi ath'amana wa saqana wa ja'alana muslimin",
+      "terjemahan": "Segala puji bagi Allah yang memberi kami makan dan minum, serta menjadikan kami sebagai orang-orang yang berserah diri (Muslim).",
+      "audioUrl":"assets/audio/test.wav"
+    },
+    {
+      "id": 3,
+      "name": "Doa Sebelum Tidur",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَحْيَا وَبِاسْمِكَ أَمُوتُ",
+      "latin": " Bismika Allahumma ahya wa bismika amuut",
+      "terjemahan": "Dengan nama-Mu, ya Allah, aku hidup, dan dengan nama-Mu aku mati."
+     },
+    {
+      "id": 4,
+      "name": "Doa Bangun Tidur",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُوْرُ",
+      "latin": "Alhamdulillahi alladzi ahyaanaa ba'da maa amaatanaa wa ilaihi an-nusyuur",
+      "terjemahan": "Segala puji bagi-Mu, ya Allah, yang telah menghidupkan kembali diriku setelah kematianku, dan hanya kepada-Nya nantinya kami semua akan dihidupkan kembali. (HR Ahmad, Bukhari & Muslim)"
+     },
+    {
+      "id": 5,
+      "name": "Doa Masuk Kamar Mandi",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "بِاسْمِ اللهِ اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَاءِثِ",
+      "latin": "Bismillahi Allahumma inni a-'udzuu bika minal khubutsi wal khabaaits ",
+      "terjemahan": "Dengan menyebut nama Allah. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari setan laki-laki dan setan perempuan. (HR Bukhari & Muslim, dari Anas bin Malik)"
+     },
+    {
+      "id": 6,
+      "name": "Doa Keluar Kamar Mandi",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "غُفْرَانَكَ اللَّهُمَّ وَالْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنِّي الْأَذَى وَيَبْكِي وَيَنْفَخُ عَنِّي وَيَنْغَفُنِي ",
+      "latin": "Ghufranakal-lahumma wal-hamdulillahil-lazi azhaba 'annil-azaa'afani wayabkaw wayanfakhunni",
+      "terjemahan": "Maafkanlah aku, ya Allah, dan segala puji bagi Allah yang telah menghilangkan kesusahan dari padaku, yang membuatku menangis, meniupkan nafas-Nya kepadaku, dan menyelamatkanku dari kesulitan."
+      },
+    {
+      "id": 7,
+      "name": "Doa Masuk Masjid",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+      "latin": "Allahumma iftah li abwaba rahmatik.",
+      "terjemahan": "ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu."
+     },
+    {
+      "id": 8,
+      "name": "Doa Keluar Masjid",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ وَرَحْمَتِكَ",
+      "latin": "Allahumma inni as'aluka min fadlika wa rahmatik.",
+      "terjemahan": "ya Allah, sesungguhnya aku memohon keutamaan dan rahmat-Mu."
+     },
+    
+    {
+          "id": 9,
+          "name": "Doa Mau Belajar",
+          "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+          "arabic": "",
+          "latin": "",
+          "terjemahan": ""
+         },
+        {
+          "id": 10,
+          "name": "Doa Naik Kendaraan",
+          "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+          "arabic": "بِسْمِ اللهِ وَتَوَكَّلْتُ عَلَى اللهِ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ",
+          "latin": "Bismillahi watawakkaltu 'alallahi wala hawla wala quwwata illa billah",
+          "terjemahan": "Dengan menyebut nama Allah, aku bertawakal kepada Allah, tidak ada daya dan kekuatan kecuali dengan pertolongan Allah."
+         },
+        {
+          "id": 11,
+          "name": "Doa Sesudah Adzan",
+          "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+          "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ, وَالصَّلَاةِ الْقَائِمَةِ, آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ, وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ, اِنَكَ لاَ تُخْلِفُ اْلمِيْعَاد",
+          "latin": "Allahumma rabba haadzihid da'watit taammah. Wash shalaatil qaa-imah. Aati muhammadal wasiilata wal fadhiilah, wab'atshu maqoomam mahmuudal ladzii wa'adtahu innaka la tukhliful mi'ad.",
+          "terjemahan": "Ya Allah, Tuhan yang memiliki panggilan ini, yang sempurna dan memiliki salat yang didirikan. Berilah Nabi Muhammad wasilah dan keutamaan, serta kemuliaan dan derajat yang tinggi, dan angkatlah ia ke tempat yang terpuji sebagaimana yang Engkau telah janjikan."
+      },
+        {
+          "id": 12,
+          "name": "Doa Niat Wudhu",
+          "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+          "arabic": "",
+          "latin": "",
+          "terjemahan": ""
+    },
+        {
+          "id": 13,
+          "name": "Doa Sesudah Wudhu",
+          "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+          "arabic": "",
+          "latin": "",
+          "terjemahan": ""
+        },
+        {
+          "id": 14,
+          "name": "Doa Bercermin",
+          "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+          "arabic": "",
+          "latin": "",
+          "terjemahan": ""
+        },
+        {
+          "id": 15,
+          "name": "Doa Kebaikan Dunia Akhirat",
+          "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+          "arabic": "",
+          "latin": "",
+          "terjemahan": ""
+        },
+        {
+            "id": 15,
+            "name": "Doa Ketika Hujan",
+            "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+            "arabic": "",
+            "latin": "",
+            "terjemahan": ""
+          },
+          {
+            "id": 16,
+            "name": "Doa Masuk Rumah",
+            "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+            "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+            "latin": " Bismillahi tawakkaltu 'ala Allahi laa haula wa laa quwwata illa billah",
+            "terjemahan": "Dengan menyebut nama Allah, aku bertawakal kepada Allah. Tiada daya kekuatan melainkan dengan pertolongan Allah."
+          },
+          {
+            "id": 17,
+            "name": "Doa Keluar Rumah",
+            "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+            "arabic": "",
+            "latin": "",
+            "terjemahan": ""
+          },
+        {
+          "id": 16,
+          "name": "Doa Kedua Orang Tua",
+          "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+          "arabic": "تُهُ",
+          "latin": "",
+          "terjemahan": ""
+        }
+      ]
+  

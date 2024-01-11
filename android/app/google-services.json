@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "547957056871",
+    "firebase_url": "https://datasantri1-65b49-default-rtdb.firebaseio.com",
+    "project_id": "datasantri1-65b49",
+    "storage_bucket": "datasantri1-65b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547957056871:android:2e193a485ee2570dc47bc2",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMYMLtea7zk1Z2All2pyX12xTggRGTGj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

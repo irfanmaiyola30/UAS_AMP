@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "name": "Surat An-Nās",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "  قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ{١} مَلِكِ النَّاسِۙ {٢} اِلٰهِ النَّاسِۙ {٣} مِنْ شَرِّالْوَسْوَاسِ ەۙالْخَنَّاسِۖ {٤} الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ {٥} مِنَ الْجِنَّةِ وَالنَّاسِ {٦}",
+      "latin": "Qul a‘ūżu birabbin-nās, Malikin-nās, Ilāhin-nās, Min syarril-waswāsil-khannās, Allażī yuwaswisu fī ṣudūrin-nās, Minal jinnati wan-nās",
+      "terjemahan": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan manusia, raja manusia, sembahan manusia, dari kejahatan (setan) pembisik yang bersembunyi, yang membisikkan (kejahatan) ke dalam dada manusia, dari (golongan) jin dan manusia“."
+      
+    },
+    {
+      "id": 2,
+      "name": "Al Falaq",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ {١} مِنْ شَرِّ مَا خَلَقَۙ {٢} وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ {٣} وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ {٤} وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَد {٥}   ",
+      "latin": "Qul a‘ūżu birabbil-falaq, Min syarri mā khalaq, Wa min syarri gāsiqin iżā waqab, Wa min syarrin-naffāṡāti fil-‘uqad, Wa min syarri ḥāsidin iżā ḥasad.",
+      "terjemahan": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan yang (menjaga) fajar (subuh) dari kejahatan (makhluk yang) Dia ciptakan, dari kejahatan malam apabila telah gelap gulita, dari kejahatan perempuan-perempuan (penyihir) yang meniup pada buhul-buhul (talinya), dan dari kejahatan orang yang dengki apabila dia dengki.“"
+    },
+    {
+      "id": 3,
+      "name": "Surat Al-Ikhlāṣ",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "قُلۡ هُوَ اللّٰهُ اَحَدٌ‌ {١} اَللّٰهُ الصَّمَدُ‌ {٢} لَمۡ يَلِدۡ ۙ وَلَمۡ يُوۡلَدۡ {٣} وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌ {٤} ",
+      "latin": "Qul huwallāhu aḥad, Allāhuṣ-ṣamad, Lam yalid wa lam yūlad, Wa lam yakul lahū kufuwan aḥad.",
+      "terjemahan": "Katakanlah (Nabi Muhammad), “Dialah Allah Yang Maha Esa, Allah tempat meminta segala sesuatu, Dia tidak beranak dan tidak pula diperanakkan, serta tidak ada sesuatu pun yang setara dengan-Nya.”"
+    },
+    {
+      "id": 4,
+      "name": "Surat Al-Lahab",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "تَبَّتۡ يَدَاۤ اَبِىۡ لَهَبٍ وَّتَبَّؕ {١} مَاۤ اَغۡنٰى عَنۡهُ مَالُهٗ وَمَا كَسَبَؕ {٢} سَيَصۡلٰى نَارًا ذَاتَ لَهَبٍ {٣} وَّامۡرَاَ تُهٗ ؕ حَمَّالَةَ الۡحَطَبِ‌ۚ {٤} فِىۡ جِيۡدِهَا حَبۡلٌ مِّنۡ مَّسَدٍ {٥} ",
+      "latin": "tabbat yadā abī lahabiw wa tabb , mā agnā 'an-hu māluhụ wa mā kasab , sayaṣlā nāran żāta lahab , wamra`atuh, ḥammālatal-ḥaṭab , fī jīdihā ḥablum mim masad",
+      "terjemahan": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia! , Tidaklah berguna baginya hartanya dan apa yang dia usahakan. , Kelak dia akan masuk ke dalam api yang bergejolak (neraka) , Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah) , Di lehernya ada tali dari sabut yang dipintal."
+    },
+    {
+      "id": 5,
+      "name": "Surat An-Naṣr",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ {١} وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ {٢} فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا {٣}",
+      "latin": "iżā jā`a naṣrullāhi wal-fat-ḥ , wa ra`aitan-nāsa yadkhulụna fī dīnillāhi afwājā , fa sabbiḥ biḥamdi rabbika wastagfir-h, innahụ kāna tawwābā ,",
+      "terjemahan": "Apabila telah datang pertolongan Allah dan kemenangan , dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong , maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia adalah Maha Penerima taubat."
+    },
+    {
+      "id": 6,
+      "name": "Surat Al-Kāfirūn",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "قُلۡ یَـٰۤأَیُّهَا ٱلۡكَـٰفِرُونَ {١} لَاۤ أَعۡبُدُ مَا تَعۡبُدُونَ {٢} وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ {٣} وَلَاۤ أَنَا۠ عَابِدࣱ مَّا عَبَدتُّمۡ {٤} وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ {٥} لَكُمۡ دِینُكُمۡ وَلِیَ دِینِ {٦} ",
+      "latin": "Qul yaa-ai yuhal kaafiruun , Laa a'budu ma t'abuduun , Wa laa antum 'aabiduuna maa a'bud , Wa laa ana 'abidum maa 'abattum , Wa laa antum 'aabiduuna ma a'bud , Lakum diinukum wa liya diin.",
+      "terjemahan": "Katakanlah (Muhammad) Wahai orang-orang kafir! , aku tidak akan menyembah apa yang kamu sembah , dan kamu bukan penyembah apa yang aku sembah , dan aku tidak pernah menjadi penyembah apa yang kamu sembah , dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah , Untukmu agamamu, dan untukku agamaku."
+    },
+    {
+      "id": 7,
+      "name": "Surat Al-Kauṡar",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "إِنَّاۤ أَعۡطَیۡنَـٰكَ ٱلۡكَوۡثَرَ {١} فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ {٢} إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ {٣}",
+      "latin": "innā a’ṭainākal-kauṡar , fa ṣalli lirabbika wan-ḥar , inna syāni`aka huwal-abtar.",
+      "terjemahan": "Sesungguhnya Kami telah memberikan kepadamu nikmat yang banyak , Maka dirikanlah shalat karena Tuhanmu; dan berkorbanlah , Sesungguhnya orang-orang yang membenci kamu dialah yang terputus."
+    },
+    {
+      "id": 8,
+      "name": "Surat Al-Mā‘ūn",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": "َ أَرَءَیۡتَ ٱلَّذِی یُكَذِّبُ بِٱلدِّینِ {١} فَذَ ٰ⁠لِكَ ٱلَّذِی یَدُعُّ ٱلۡیَتِیمَ {٢} وَلَا یَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِینِ {٣} فَوَیۡلࣱ لِّلۡمُصَلِّینَ {٤} ٱلَّذِینَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ {٥} ٱلَّذِینَ هُمۡ یُرَاۤءُونَ {٦} وَیَمۡنَعُونَ ٱلۡمَاعُونَ {٧}",
+      "latin": "Ara-aital lazii yu kazzibu bid diin , Fa zaalikal lazi yadu'ul-yatiim , Wa la ya huddu 'alaa ta'amil miskiin , Fa wai lul-lil mu salliin , Al laziina hum 'an salaatihim sahuun , Al laziina hum yuraa-uun , Wa yamna'uunal ma'uun",
+      "terjemahan": "Tahukah kamu (orang) yang mendustakan agama? , Maka itulah orang yang menghardik anak yatim , dan tidak mendorong memberi makan orang miskin. , Maka celakalah orang yang shalat , (yaitu) orang-orang yang lalai terhadap shalatnya , yang berbuat ria , dan enggan (memberikan) bantuan."
+    },
+    {
+      "id": 8,
+      "name": "Surat Quraisy",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": " لِإِیلَـٰفِ قُرَیۡشٍ {١} إِۦلَـٰفِهِمۡ رِحۡلَةَ ٱلشِّتَاۤءِ وَٱلصَّیۡفِ {٢} فَلۡیَعۡبُدُوا۟ رَبَّ هَـٰذَا ٱلۡبَیۡتِ {٣} ٱلَّذِیۤ أَطۡعَمَهُم مِّن جُوعࣲ وَءَامَنَهُم مِّنۡ خَوۡفِۭ {٤}",
+      "latin": "Li'īlāfi quraisy, ´lāfihim riḥlatasy-syitā'i waṣ-ṣaif, Falya‘budū rabba hāżal-bait, Allażī aṭ‘amahum min jū‘, wa āmanahum min khauf.",
+      "terjemahan": "Disebabkan oleh kebiasaan orang-orang Quraisy, (yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas (sehingga mendapatkan banyak keuntungan), maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah) yang telah memberi mereka makanan untuk menghilangkan lapar dan mengamankan mereka dari rasa takut."
+    },
+    {
+      "id": 8,
+      "name": "Surat Al-Fīl",
+      "bismillah" :"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "arabic": " أَلَمۡ تَرَ كَیۡفَ فَعَلَ رَبُّكَ بِأَصۡحَـٰبِ ٱلۡفِیلِ {١} أَلَمۡ یَجۡعَلۡ كَیۡدَهُمۡ فِی تَضۡلِیلࣲ {٢} وَأَرۡسَلَ عَلَیۡهِمۡ طَیۡرًا أَبَابِیلَ {٣} تَرۡمِیهِم بِحِجَارَةࣲ مِّن سِجِّیلࣲ {٤} فَجَعَلَهُمۡ كَعَصۡفࣲ مَّأۡكُولِۭ {٥}",
+      "latin": "Alam tara kaifa fa‘ala rabbuka bi'aṣḥābil-fīl, Alam yaj‘al kaidahum fī taḍlīl, Wa arsala ‘alaihim ṭairan abābīl, Tarmīhim biḥijāratim min sijjīl, Fa ja‘alahum ka‘aṣfim ma'kūl.",
+      "terjemahan": "Tidakkah engkau (Nabi Muhammad) memperhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?, Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?, Dia mengirimkan kepada mereka burung yang berbondong-bondong, yang melempari mereka dengan batu dari tanah liat yang dibakar, sehingga Dia menjadikan mereka seperti daun-daun yang dimakan (ulat)."
+    }
+    
+    
+  ]
